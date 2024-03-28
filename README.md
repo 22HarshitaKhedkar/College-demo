@@ -1,4 +1,4 @@
 # College-demo
 This is my first Git Repository
 <br>
-Author - Harshita Khedkar
+Author - Harshita (Aspirant)
